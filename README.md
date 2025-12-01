@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mostafa</h1>
 <h3 align="center">Linux SysAdmin | Artificial Intelligence Specialist</h3>
 
 <h3 align="left">Connect with me:</h3>
