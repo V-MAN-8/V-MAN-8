@@ -1,4 +1,4 @@
-<h3 align="center">Linux SysAdmin | Artificial Intelligence Specialist</h3>
+<h3>Linux SysAdmin | Artificial Intelligence Specialist</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
