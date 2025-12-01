@@ -1,5 +1,3 @@
-<h3>Linux SysAdmin | Artificial Intelligence Specialist</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/v_man_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="v_man_8" height="30" width="40" /></a>
