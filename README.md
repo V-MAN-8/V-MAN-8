@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Mostafa Abdo <br>Artificial intelligence specialist | Linux SysAdmin</h2>
+<h2 align="center">Hi, I'm Mostafa Abdo <br>Artificial intelligence specialist</h2>
 
 ###
 
